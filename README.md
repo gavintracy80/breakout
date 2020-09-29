@@ -1,1 +1,1 @@
-# breakout
+Use breakout.py file to begin game
